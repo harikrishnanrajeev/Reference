@@ -11,3 +11,5 @@ Collating links , articles , git hubs for reference
     2.2) https://docs.gimp.org/2.6/en/index.html
      https://docs.gimp.org/2.6/en/plug-in-convmatrix.html    (convolution matrix)
      https://docs.gimp.org/2.6/en/plug-in-dog.html   (Gaussian filter)
+     
+    2.3) https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
