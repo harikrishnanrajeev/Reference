@@ -13,3 +13,5 @@ Collating links , articles , git hubs for reference
      https://docs.gimp.org/2.6/en/plug-in-dog.html   (Gaussian filter)
      
     2.3) https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
+    
+    2.4) http://neuralnetworksanddeeplearning.com/chap1.html
