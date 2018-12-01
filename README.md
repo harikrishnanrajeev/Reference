@@ -7,3 +7,6 @@ Collating links , articles , git hubs for reference
 2) CNN References and Links
   a) http://setosa.io/ev/image-kernels/  
      To understand how convolutions work
+  b) https://docs.gimp.org/2.6/en/index.html
+     https://docs.gimp.org/2.6/en/plug-in-convmatrix.html    (convolution matrix)
+     https://docs.gimp.org/2.6/en/plug-in-dog.html   (Gaussian filter)
