@@ -15,3 +15,7 @@ Collating links , articles , git hubs for reference
     2.3) https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
     
     2.4) http://neuralnetworksanddeeplearning.com/chap1.html
+
+3) Good to Read
+
+    3.1) https://medium.com/@cody.marie.wild/machine-learning-writing-month-17b80b88f1dd
