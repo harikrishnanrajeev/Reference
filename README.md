@@ -21,3 +21,7 @@ Collating links , articles , git hubs for reference
 3) Good to Read
 
     3.1) https://medium.com/@cody.marie.wild/machine-learning-writing-month-17b80b88f1dd
+
+4) Mathematics
+
+    4.1) https://pimbook.org/
