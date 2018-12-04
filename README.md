@@ -25,3 +25,7 @@ Collating links , articles , git hubs for reference
 4) Mathematics
 
     4.1) https://pimbook.org/
+    
+5) Bayesian
+
+    5.1) http://bayesiandeeplearning.org/
