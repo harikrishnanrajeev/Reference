@@ -29,3 +29,12 @@ Collating links , articles , git hubs for reference
 5) Bayesian
 
     5.1) http://bayesiandeeplearning.org/
+    
+6) Object detecion:
+
+    6.1) https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19
+        (Three part series which will elaborate on Object Detection in images using CNN)
+    
+    6.2) https://github.com/simonm3/maskr  (MaskRCNN in Pytorch)
+    
+    
