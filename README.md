@@ -16,11 +16,8 @@ Collating links , articles , git hubs for reference
     
     2.4) http://neuralnetworksanddeeplearning.com/chap1.html
     
-    2.5) https://classroom.udacity.com/courses/ud188
-    
-    2.5) Mask-RCNN
-    
-        2.5.1) https://github.com/simonm3/maskr  (nice collection of Mask-RCNN repo's keras and pytorch)
+    2.5) https://classroom.udacity.com/courses/ud188    
+   
 
 3) Good to Read
 
@@ -39,6 +36,6 @@ Collating links , articles , git hubs for reference
     6.1) https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19
         (Three part series which will elaborate on Object Detection in images using CNN)
     
-    6.2) https://github.com/simonm3/maskr  (MaskRCNN in Pytorch)
+    6.2) https://github.com/simonm3/maskr  (nice details of Mask-RCNN repo's keras and pytorch)
     
     
