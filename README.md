@@ -17,6 +17,10 @@ Collating links , articles , git hubs for reference
     2.4) http://neuralnetworksanddeeplearning.com/chap1.html
     
     2.5) https://classroom.udacity.com/courses/ud188
+    
+    2.5) Mask-RCNN
+    
+        2.5.1) https://github.com/simonm3/maskr  (nice collection of Mask-RCNN repo's keras and pytorch)
 
 3) Good to Read
 
