@@ -26,6 +26,7 @@ Collating links , articles , git hubs for reference
 4) Mathematics
 
     4.1) https://pimbook.org/
+    4.2) https://explained.ai/matrix-calculus/index.html
     
 5) Bayesian
 
