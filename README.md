@@ -17,7 +17,13 @@ Collating links , articles , git hubs for reference
     2.4) http://neuralnetworksanddeeplearning.com/chap1.html
     
     2.5) https://classroom.udacity.com/courses/ud188    
-   
+    
+    2.6) Building a Convolution (Notes)
+    	2.6.1) For first conv layer, kernel size will be more than later layers
+	2.6.2) So first conv layer will have more padding as well , mostly kernel size / 2
+	2.6.3) Because of stride, h(height) and width(w) in a layer decreases , but number of kernels increases,
+	       eg; for stride 2 conv , h and w decrases to h/2 and w/2
+	           but number of channels increases * 2
 
 3) Good to Read
 
