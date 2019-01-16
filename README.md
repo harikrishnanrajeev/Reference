@@ -38,5 +38,29 @@ Collating links , articles , git hubs for reference
         (Three part series which will elaborate on Object Detection in images using CNN)
     
     6.2) https://github.com/simonm3/maskr  (nice details of Mask-RCNN repo's keras and pytorch)
-    
-    
+ 
+ 7) Notes
+    Dropout:
+    . Type of regularization
+. Its a training scheme that masks neurons at every step
+. Based on paper by Nitish Srivastawa , Jeff Hinton et all - "Drop out: A simple way to prevent neural networks from overfitting"
+. Dropout throws away activations with a probability p. (p=0.5 is common)
+. Drop out of input is unusual but possible. Usually we use dropout for hidden neurons
+. Too much dropout results in underfitting
+. During Test time, dropout is turned off , because we want to be as accurate as possible
+. Why we only applied dropout to fully-connected layers and all and not to convolutions layers ?
+	Dropout is usually not applied to convolutional layers. It is not needed because convolutional layers have considerable 
+	inbuilt resistance to overfitting
+	The reason is that shared weights mean that convolutional filters are forced to learn from across the entired image.
+	This makes them less likely to pick on local idiosyncracies in the training data. And so there is less need to apply other regularizers 
+	, such as dropout.
+	In the original dropout papaer, it was mentioned that adding dropout to convolutional layers brings down the error rate. But current SoTA architectures
+	do not have dropout in the convolutional part of the architecture. 
+. Why do we need both batchnorm and dropout , both does regularization ?.
+	One great thing about dropout is that it has a parameter which indicates how much to dropout.
+	
+. Dropblock - https://github.com/miguelvr/dropblock
+. Dropfilter - https://arxiv.org/abs/1810.09849
+
+. Embeding dropout - It drops out some activations of the embedding matrix. 
+. Dropout uses Bernoulli random variables , in which you are either using an activation (mulyiply by 1) or dropping it completely (muliply by 0) 
