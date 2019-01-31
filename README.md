@@ -47,7 +47,7 @@ Collating links , articles , git hubs for reference
     
     6.2) https://github.com/simonm3/maskr  (nice details of Mask-RCNN repo's keras and pytorch)
     
-7). Hand writing recognition resources
+7) Hand writing recognition resources
 
     7.1) https://distill.pub/2017/ctc/   (sequence modelling with CTC - A visual guide to Connectionist Temporal Classification)
 
