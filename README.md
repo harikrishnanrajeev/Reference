@@ -47,17 +47,17 @@ Collating links , articles , git hubs for reference
     
     6.2) https://github.com/simonm3/maskr  (nice details of Mask-RCNN repo's keras and pytorch)
     
-7). HAND WRITING RECOGNITION RESOURCES
+7). Hand writing recognition resources
 
-7.1) https://distill.pub/2017/ctc/   (sequence modelling with CTC - A visual guide to Connectionist Temporal Classification)
+    7.1) https://distill.pub/2017/ctc/   (sequence modelling with CTC - A visual guide to Connectionist Temporal Classification)
 
-7.2) https://github.com/githubharald/CTCWordBeamSearch
+    7.2) https://github.com/githubharald/CTCWordBeamSearch
 
-7.3) https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e
+    7.3) https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e
 
-7.4) https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
+    7.4) https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
 
-7.5) https://github.com/meijieru/crnn.pytorch/
+    7.5) https://github.com/meijieru/crnn.pytorch/
 
 ***************************************************************************************************************************
  1) Notes
