@@ -46,8 +46,21 @@ Collating links , articles , git hubs for reference
         (Three part series which will elaborate on Object Detection in images using CNN)
     
     6.2) https://github.com/simonm3/maskr  (nice details of Mask-RCNN repo's keras and pytorch)
- 
- 7) Notes
+    
+7). HAND WRITING RECOGNITION RESOURCES
+
+7.1) https://distill.pub/2017/ctc/   (sequence modelling with CTC - A visual guide to Connectionist Temporal Classification)
+
+7.2) https://github.com/githubharald/CTCWordBeamSearch
+
+7.3) https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e
+
+7.4) https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
+
+7.5) https://github.com/meijieru/crnn.pytorch/
+
+***************************************************************************************************************************
+ 1) Notes
     Dropout:
     . Type of regularization
 . Its a training scheme that masks neurons at every step
@@ -73,17 +86,7 @@ Collating links , articles , git hubs for reference
 . Embeding dropout - It drops out some activations of the embedding matrix. 
 . Dropout uses Bernoulli random variables , in which you are either using an activation (mulyiply by 1) or dropping it completely (muliply by 0) 
 
-8. HAND WRITING RECOGNITION RESOURCES
 
-8.1) https://distill.pub/2017/ctc/   (sequence modelling with CTC - A visual guide to Connectionist Temporal Classification)
-
-8.2) https://github.com/githubharald/CTCWordBeamSearch
-
-8.3) https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e
-
-8.4) https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
-
-8.5) https://github.com/meijieru/crnn.pytorch/
 
 
 
