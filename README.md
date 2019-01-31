@@ -27,7 +27,8 @@ Collating links , articles , git hubs for reference
 
 3) Good to Read
 
-    3.1) https://medium.com/@cody.marie.wild/machine-learning-writing-month-17b80b88f1dd                                                     3.2) https://handong1587.github.io/categories.html   ( a heavy weight list of topics)
+    3.1) https://medium.com/@cody.marie.wild/machine-learning-writing-month-17b80b88f1dd 
+    3.2) https://handong1587.github.io/categories.html   ( a heavy weight list of topics)
 
 4) Mathematics
 
