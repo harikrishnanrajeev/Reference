@@ -30,6 +30,8 @@ Collating links , articles , git hubs for reference
     3.1) https://medium.com/@cody.marie.wild/machine-learning-writing-month-17b80b88f1dd 
     
     3.2) https://handong1587.github.io/categories.html   ( a heavy weight list of topics)
+    
+    3.3)  https://www.topbots.com/most-important-ai-nlp-research/
 
 4) Mathematics
 
@@ -59,9 +61,7 @@ Collating links , articles , git hubs for reference
 
     7.5) https://github.com/meijieru/crnn.pytorch/
 
-8) Good Papers
 
-   8.1) https://www.topbots.com/most-important-ai-nlp-research/
    
 ***************************************************************************************************************************
  1) Notes
