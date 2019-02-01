@@ -59,6 +59,10 @@ Collating links , articles , git hubs for reference
 
     7.5) https://github.com/meijieru/crnn.pytorch/
 
+8) Good Papers
+
+   8.1) https://www.topbots.com/most-important-ai-nlp-research/
+   
 ***************************************************************************************************************************
  1) Notes
     Dropout:
