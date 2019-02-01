@@ -90,6 +90,8 @@ Collating links , articles , git hubs for reference
 
 https://mc.ai/why-we-need-normalization-in-deep-learning-from-batch-normalization-to-group-normalization/
 
+https://github.com/switchablenorms/Switchable-Normalization
+
 
 
 
