@@ -61,8 +61,11 @@ Collating links , articles , git hubs for reference
 
     7.5) https://github.com/meijieru/crnn.pytorch/
 
+8) Graph Neural networks
 
-   
+    8.1) https://docs.dgl.ai/index.html   (Deep Graph Library)
+    
+
 ***************************************************************************************************************************
  1) Notes
     Dropout:
