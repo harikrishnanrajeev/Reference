@@ -67,6 +67,14 @@ Collating links , articles , git hubs for reference
 
     8.1) https://docs.dgl.ai/index.html   (Deep Graph Library)
     
+9) Concepts
+
+    9.1) Marginalisation
+    	
+	9.1.1.) https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc
+	
+	
+    
 
 ***************************************************************************************************************************
  1) Notes
