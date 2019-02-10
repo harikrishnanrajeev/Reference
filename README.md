@@ -73,7 +73,9 @@ Collating links , articles , git hubs for reference
     	
 	9.1.1.) https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc
 	
-	
+10) Python
+
+    10.1) https://gto76.github.io/python-cheatsheet/   (SUPER for PYTHON)
     
 
 ***************************************************************************************************************************
